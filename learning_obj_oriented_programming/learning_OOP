@@ -1,0 +1,76 @@
+# Python Object-Oriented Programming
+# learning from Corey Schafer's video
+
+class Employee:
+
+    raise_amount = 1.04
+    num_of_emps = 0
+
+    def __init__(self, first, last, pay): #runs whenever a new instance is created
+        self.first = first
+        self.last = last
+        self.pay = pay
+        self.email = first + '.' + last + '@company.com'
+
+        Employee.num_of_emps += 1    
+
+    def fullname(self):
+        return print('{} {}'.format(self.first, self.last))
+
+    def apply_raise(self):
+        self.pay = int(self.pay * self.raise_amount) #why not Employee.raise_amount? vv
+                                                        # using self. gives a little more flexibility
+                                                        # if we really wanted to, we would be able to only change the raise amount of one emp_1
+                                                        # rather than changing the raise amount of all classes
+                                                        #
+                                                        # emp_1.raise_amount = 1.10
+                                                        # if we only changed the raise amount of one employee (ex. emp_1), self. would reflect that
+    @classmethod
+    def set_raise_amt(cls, amount):
+        cls.raise_amount = amount
+
+    @classmethod
+    def from_string(cls, employee_string): # creates a new employee from a hyphenated string
+        first, last, pay = employee_string.split('-') #gets first, last, and pay from a string like 'john-doe-20000'
+        return cls(first, last, pay)
+
+    @staticmethod
+    def is_workday(day):
+        if day.weekday() == 5 or 6:
+            return False
+        return True
+
+import datetime as dt
+
+my_date = dt.date(2024, 11, 17)
+
+print(Employee.is_workday(my_date))
+print(Employee.num_of_emps)
+
+emp_1 = Employee('Corey', 'Schafer', 60000)
+emp_2 = Employee('Test', 'User', 50000)
+
+print(Employee.num_of_emps)
+# print(emp_2.fullname()
+# Employee.fullname(emp_1) # both of these methods of calling work
+# emp_1.fullname()
+
+# emp_1.pay = emp_1.pay * emp_1.raise_amount
+# emp_1.pay = emp_1.pay * Employee.raise_amount
+
+# why does calling raise amount work outside of the class definition?
+# we are accessing raise_amount USING the class instance
+# actually, we can calling the variable anywhere by using the class instance vvv
+
+# raise_amount = 1.05 # this wouldn't work (in this context) because we didn't ask it to access from the Employee class
+# Employee.raise_amount = 1.05 # this works because we accessed it with the class
+# print(Employee.__dict__)
+
+# emp_1.raise_amount = 1.05 # we can also use the emp_1 object to only change the raise_amount of ONLY emp_1
+# fun facts and simple stuff
+
+
+print(emp_1.raise_amount)
+print(emp_1.raise_amount) 
+print(Employee.raise_amount)
+
