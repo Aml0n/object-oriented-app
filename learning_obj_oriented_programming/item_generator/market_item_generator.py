@@ -18,7 +18,7 @@ def price_generator():
 
 def quantity_generator():
     """Generates a random quantity for the item"""
-    return round(r.uniform(1, 1000), 2)
+    return r.randint(1, 20)
 
 def id_generator():
     """Creates a 16-digit id for the item, every 4 digits is separated by a '-' 
@@ -29,20 +29,22 @@ def id_generator():
     FourthCount = f"{str(r.randint(0, 9999)).zfill(4)}"
     return f"{FirstCount}-{SecondCount}-{ThirdCount}-{FourthCount}"
 
-line_counter = 0 # starts counting upward for every new line created
+def category_generator():
+    """Chooses a random category from sports, professional, casual, sleepwear, and exclusive"""
+    return f"{r.choice(['sports', 'professional', 'casual', 'sleepwear', 'exclusive', 'swimwear', 'party'])}"
+
+new_lines = 0 # starts counting upward for every new line created
 try: # check if the file actually exists
-    with open(os.path.join('item_generator', 'output.csv'), 'w', newline='') as csvfile:
+    with open(os.path.join('item_generator', 'output.csv'), 'a', newline='') as csvfile:
         writer = csv.writer(csvfile, delimiter=',', quotechar='|', quoting=csv.QUOTE_MINIMAL)
-        writer.writerow(['Name', 'Price', 'Quantity', 'ID'])  # Add header row before writing data rows
-        while True: # keep writing new rows . . .
-            writer.writerow([f"{name_generator()}", f"{price_generator()}", f"{quantity_generator()}", f"{id_generator()}"])
-            line_counter += 1
-            if line_counter == 100: # . . . until there are 100 rows (+ the header row)
-                break
+        if csvfile.tell() == 0:
+            writer.writerow(['name', 'price', 'quantity', 'id', 'category'])  # Add header row before writing data rows
+        while new_lines < 300: # keep writing new rows until x new lines have been written
+            writer.writerow([f"{name_generator()}", f"{price_generator()}", f"{quantity_generator()}", f"{id_generator()}", f"{category_generator()}"])
+            new_lines += 1
 except IOError as e:
     print(f"An error occurred while writing to the file: {e}")
 
 end_time = time.time()
 elapsed_time = start_time - end_time
-print(f"Done. Printed {line_counter} lines in {elapsed_time:.2f}")
-
+print(f"Done. Printed {new_lines} lines in {elapsed_time:.2f}")

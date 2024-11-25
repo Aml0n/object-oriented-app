@@ -1,101 +1,301 @@
-Name                            ,Price ,Quantity ,ID
-interesting brown shoes         ,91.12 ,  870.3  ,4025-5266-8305-4018
-fancy brown pants               ,20.72 ,  473.55 ,5309-9504-0862-7518
-fuzzy black scarf               ,52.64 ,  750.83 ,1463-5793-9255-0980
-wooden green shirt              ,97.48 ,   83.54 ,3065-5697-6397-0675
-trendy green boots              , 3.63 ,  448.62 ,9046-1523-8939-1766
-colorful purple shorts          ,99.39 ,  716.94 ,6491-7854-0110-1486
-spotted black heels             ,13.14 ,  180.29 ,1212-8465-2932-9276
-fuzzy white slippers            ,61.74 ,  941.28 ,2402-3376-0557-4187
-fancy white heels               , 6.16 ,  628.36 ,0866-5887-0136-5303
-fancy black flip-flops          ,54.97 ,  771.1  ,6915-9845-7579-8294
-fuzzy red sweater               ,74.1  ,  547.87 ,7113-5241-4647-0127
-fancy yellow shorts             ,63.36 ,   75.18 ,4722-9507-4662-0409
-spotted grey shoes              ,54.05 ,  823.58 ,3849-3608-1884-0079
-interesting green sweater       , 6.94 ,  863.4  ,8764-0355-0074-0976
-interesting purple sneakers     ,24.87 ,   31.06 ,4163-8421-1785-7430
-interesting orange shirt        ,20.19 ,  939.77 ,4948-3552-7363-1976
-colorful grey pants             ,26.82 ,  372.9  ,5397-5293-7667-5674
-classy yellow flip-flops        , 3.95 ,  890.42 ,6022-4209-6092-6914
-classy turquoise shirt          , 4.76 ,   12.97 ,6321-3307-0939-7017
-trendy blue jacket              ,10.86 ,  918.16 ,7351-8750-9468-4289
-trendy black scarf              ,43.41 ,  912.22 ,4951-6624-0978-3356
-wooden green shoes              , 7.85 ,  154.29 ,1443-7156-9231-8051
-interesting turquoise underwear ,90.29 ,  501.1  ,0675-2923-8040-9967
-fuzzy yellow coat               ,63.6  ,   17.25 ,8337-2730-4478-3375
-trendy black scarf              ,51.01 ,  862.89 ,5617-0451-3692-1705
-fancy turquoise flip-flops      ,17.31 ,  802.23 ,1236-4323-6982-9064
-trendy purple dress             ,59.76 ,  662.83 ,2948-3564-6768-9179
-colorful turquoise sneakers     ,99.92 ,  952.03 ,9396-6855-3621-6884
-classy turquoise hat            ,63.37 ,   95.15 ,6712-5970-8035-4503
-smart beige coat                ,30.77 ,  263.34 ,4005-1104-1924-0289
-soft black shorts               ,47.01 ,  262.97 ,7800-5491-8715-2839
-wooden purple slippers          ,71.96 ,  156.77 ,1227-9410-0303-9771
-classy pink pants               , 9.55 ,  941.6  ,8761-5454-2598-1718
-wooden grey gloves              ,73.46 ,  887.55 ,7798-3224-2947-3936
-interesting brown slippers      ,73.97 ,  242.62 ,7437-0642-2930-3433
-fancy orange shirt              ,19.99 ,  769.85 ,4039-9595-0933-8191
-colorful red pants              ,61.29 ,  228.99 ,2714-3613-2503-0780
-spotted orange slippers         ,84.53 ,  842.91 ,5396-0360-7217-5304
-classy pink coat                ,70.75 ,  623.25 ,6278-0694-1599-1004
-wooden beige underwear          ,50.23 ,  790.37 ,8221-9982-9948-9995
-spotted grey skirt              ,20.77 ,  254.87 ,3976-6836-5030-4024
-wooden black coat               ,52.43 ,  746.94 ,8652-7760-7064-1470
-smart orange shorts             ,15.09 ,  325.19 ,1741-3440-8442-7978
-interesting black flip-flops    ,60.8  ,   53.58 ,1911-8836-1970-6796
-wooden orange underwear         ,96.42 ,  394.86 ,6469-7559-9741-8345
-interesting turquoise shorts    ,88.95 ,  672.84 ,9019-9347-6796-1218
-classy white heels              ,23.99 ,  416.78 ,2292-5993-2277-5989
-fuzzy turquoise hat             ,16.0  ,  341.43 ,4396-1648-7493-4652
-soft orange shoes               ,72.46 ,  864.07 ,7276-1005-2569-5000
-trendy blue jacket              ,67.52 ,  382.43 ,7927-2953-9432-3883
-smart brown sneakers            ,87.52 ,    3.38 ,8875-1869-7923-5110
-soft orange shorts              ,16.08 ,  693.16 ,5621-1188-5583-4653
-soft white shorts               ,52.13 ,  581.55 ,0687-1045-4569-2186
-fancy green flip-flops          ,63.2  ,  345.57 ,2067-4013-5542-5498
-interesting red scarf           ,51.71 ,  199.26 ,8084-2244-2547-3958
-smart beige shirt               ,30.28 ,   55.71 ,8681-0953-2423-0231
-spotted yellow sandals          ,86.75 ,  659.93 ,7332-2665-4263-7916
-colorful black coat             ,94.38 ,  223.22 ,7917-3622-5324-3805
-smart pink dress                ,72.87 ,  218.53 ,9652-5297-9307-4251
-soft red hat                    ,63.47 ,  676.54 ,3027-2502-4566-4364
-smart brown coat                ,47.29 ,  508.49 ,8658-4395-6017-1758
-trendy green sweater            ,18.35 ,  678.07 ,8937-9956-9361-0909
-interesting yellow sneakers     , 2.99 ,  653.07 ,2547-1534-2177-4168
-spotted brown sandals           ,45.8  ,  255.67 ,5403-2489-2254-6411
-interesting beige sneakers      ,30.96 ,  286.29 ,4422-1835-3952-1901
-fancy yellow pants              ,36.71 ,  920.48 ,8103-8040-5051-3453
-spotted turquoise hat           ,65.81 ,  498.72 ,4836-0408-0982-8242
-soft blue shoes                 ,48.84 ,  169.26 ,9877-2212-8600-3307
-spotted black shoes             ,20.33 ,  100.91 ,7896-0948-3174-4194
-fuzzy black dress               ,15.9  ,  260.85 ,0892-5616-1114-8730
-fancy red shirt                 ,10.56 ,  823.22 ,5402-7535-6283-9857
-soft turquoise pants            ,66.99 ,  896.44 ,6601-8187-2001-3114
-fuzzy black jacket              ,55.38 ,  602.73 ,0987-2657-9018-1763
-interesting beige skirt         ,46.66 ,  672.83 ,2169-0290-5552-8330
-trendy black pants              ,78.91 ,  285.96 ,6414-2827-6115-4700
-classy turquoise dress          ,77.15 ,  418.22 ,9251-3156-3260-0479
-soft blue sneakers              , 4.72 ,  708.47 ,1092-5007-5058-1908
-trendy green underwear          ,36.99 ,  399.16 ,5201-9703-5413-0719
-interesting red pants           ,91.54 ,  778.38 ,8733-6153-1570-7886
-classy red sneakers             ,25.75 ,  831.17 ,5764-3112-8051-4586
-spotted purple shoes            ,74.06 ,  107.26 ,9751-8760-4199-9183
-trendy grey skirt               ,41.69 ,  870.44 ,6543-9308-5082-9499
-classy yellow shoes             ,25.16 ,  713.13 ,0266-8012-6005-2802
-fuzzy grey coat                 , 6.04 ,  375.99 ,0268-2857-6182-1255
-interesting beige skirt         ,71.2  ,  730.6  ,4192-0657-2711-3080
-wooden brown hat                ,83.11 ,  738.72 ,7853-5615-6455-4444
-smart orange sandals            ,90.29 ,  439.46 ,8073-3644-9301-8158
-trendy purple sweater           ,34.13 ,  827.18 ,7766-4867-4691-8227
-wooden grey shoes               ,70.11 ,  717.52 ,2909-9881-3777-1020
-classy blue shirt               ,40.34 ,   98.6  ,6997-0715-9969-0357
-smart blue skirt                ,29.21 ,  821.13 ,9377-7471-0059-1139
-spotted black hat               ,91.78 ,  763.66 ,9079-1726-6054-4153
-classy beige slippers           ,65.98 ,  687.12 ,1506-6520-4451-5278
-spotted purple gloves           ,35.91 ,  697.93 ,5128-7142-0281-6698
-wooden blue socks               ,56.82 ,  153.63 ,8148-8159-2415-2049
-wooden blue shoes               , 9.11 ,  497.98 ,4189-0468-3110-1999
-trendy brown sneakers           ,77.37 ,  734.26 ,8754-9377-2835-8767
-fuzzy black jacket              ,59.21 ,  841.89 ,2939-7618-4100-8153
-fancy yellow sweater            ,29.52 ,  508.23 ,4976-8318-7454-0085
-classy white heels              ,13.86 ,  608.84 ,8309-6372-8541-5886
+name                         ,price ,quantity ,id                  ,category
+classy beige sneakers        ,75.23 ,       1 ,2345-6611-1806-9441 ,sports
+wooden white scarf           ,96.59 ,      14 ,1588-7345-7522-1782 ,swimwear
+trendy beige socks           ,61.56 ,      16 ,5668-2218-3898-2340 ,casual
+colorful pink heels          ,72.61 ,      14 ,2654-1862-1821-8864 ,exclusive
+fuzzy purple flip-flops      ,13.97 ,      13 ,6999-8653-0229-1208 ,exclusive
+fuzzy black sandals          ,36.77 ,       1 ,3587-2030-0456-4485 ,party
+trendy purple skirt          ,23.74 ,      16 ,3992-8230-6141-3112 ,exclusive
+wooden orange skirt          ,31.45 ,      20 ,2849-9147-9709-3867 ,party
+interesting beige boots      , 8.65 ,      13 ,3676-7485-8096-8662 ,professional
+fancy red socks              ,86.71 ,       6 ,2306-9307-8871-6636 ,exclusive
+interesting grey heels       ,19.68 ,      17 ,2589-4782-7573-7876 ,exclusive
+smart black sweater          , 9.76 ,      15 ,1164-5426-7230-9334 ,party
+trendy orange sandals        ,45.18 ,      13 ,8151-7215-2754-4656 ,exclusive
+interesting purple jacket    ,91.45 ,       5 ,3109-6128-3363-2168 ,professional
+smart black shoes            ,92.89 ,       1 ,2185-1882-7435-7334 ,party
+wooden black gloves          ,66.2  ,      13 ,0606-8302-5657-7092 ,exclusive
+fuzzy grey skirt             , 3.52 ,       8 ,4673-2926-6857-0265 ,exclusive
+classy green gloves          ,53.35 ,      16 ,3792-4015-2018-7846 ,professional
+fuzzy red shorts             ,73.34 ,      14 ,4294-6240-0472-6307 ,party
+fancy pink sandals           , 8.66 ,       4 ,2065-6948-8129-3150 ,casual
+colorful yellow skirt        ,39.11 ,      13 ,3504-6244-3957-2498 ,party
+wooden brown skirt           ,51.6  ,       7 ,3546-2537-0757-9870 ,party
+fuzzy blue shorts            , 4.83 ,       7 ,3983-4900-5702-5310 ,professional
+smart pink gloves            ,24.98 ,      11 ,9704-2779-3394-6760 ,exclusive
+smart brown boots            , 6.79 ,       6 ,1315-5395-5041-2535 ,swimwear
+classy blue heels            ,30.69 ,      12 ,4940-4591-0574-0930 ,professional
+fancy blue dress             ,85.75 ,       5 ,5098-9004-9741-6393 ,professional
+spotted yellow jacket        ,70.04 ,       1 ,7369-7733-1241-0430 ,sleepwear
+colorful orange sneakers     ,39.74 ,      19 ,1510-4085-7325-9509 ,exclusive
+trendy black skirt           ,63.73 ,       3 ,2080-8901-2146-2943 ,swimwear
+trendy purple gloves         ,88.16 ,      13 ,6878-8686-6529-3982 ,professional
+fuzzy white shorts           , 7.68 ,      14 ,0664-4967-2499-4521 ,swimwear
+fuzzy orange sweater         ,67.51 ,       6 ,9726-5394-6919-1062 ,party
+soft blue dress              ,72.48 ,      15 ,9536-0972-3392-5235 ,swimwear
+fancy orange shirt           ,85.8  ,       3 ,2259-6708-6221-8209 ,sleepwear
+spotted green coat           ,97.65 ,       4 ,2292-6460-0772-1275 ,exclusive
+interesting green shoes      ,52.45 ,       8 ,4124-6003-6540-6257 ,party
+wooden yellow underwear      ,17.94 ,      18 ,7193-2545-6484-7796 ,exclusive
+trendy turquoise underwear   ,97.11 ,      12 ,4234-1317-9588-7779 ,party
+interesting pink flip-flops  ,82.39 ,      18 ,3497-7734-1863-4490 ,party
+spotted pink hat             , 7.2  ,       7 ,4115-0017-8531-5757 ,professional
+soft purple heels            ,60.78 ,      19 ,0907-0644-9267-1874 ,casual
+wooden pink coat             ,81.66 ,       4 ,1998-6609-1628-7461 ,professional
+trendy brown gloves          ,96.53 ,       6 ,2672-4863-1724-9037 ,casual
+smart purple shorts          ,87.07 ,      11 ,1093-2107-5244-3611 ,exclusive
+colorful pink skirt          ,55.11 ,      10 ,5550-7284-6150-5655 ,sports
+colorful red coat            ,23.74 ,       4 ,1127-2123-8428-2903 ,casual
+colorful pink sandals        ,65.77 ,       8 ,3651-9662-8156-7011 ,sports
+smart blue shirt             ,87.35 ,      20 ,9447-6385-4556-7507 ,sports
+colorful orange sneakers     ,84.31 ,       6 ,2017-2424-6861-7082 ,professional
+wooden purple jacket         ,77.2  ,       7 ,1716-5087-7522-4223 ,party
+soft grey jacket             ,31.3  ,      10 ,2004-6223-3281-7033 ,exclusive
+soft red sneakers            ,23.98 ,      12 ,0820-7174-8056-5200 ,casual
+classy orange jacket         ,43.25 ,      16 ,4850-9753-8750-8016 ,professional
+smart turquoise sandals      ,81.54 ,       2 ,4292-1638-2779-2221 ,sports
+smart pink scarf             ,55.12 ,       1 ,0309-9750-3131-2125 ,party
+classy green shorts          ,44.67 ,      15 ,7453-2478-0616-7192 ,sports
+soft grey shirt              ,98.81 ,      16 ,1121-6733-3751-8866 ,exclusive
+colorful orange jacket       ,35.05 ,      13 ,2998-0378-6617-0705 ,party
+fuzzy blue skirt             ,66.86 ,      10 ,2445-1509-5531-8816 ,professional
+trendy purple hat            ,47.2  ,      20 ,1772-8787-8336-9142 ,exclusive
+colorful purple pants        ,72.07 ,       7 ,6322-9982-0186-2644 ,professional
+soft black sneakers          ,38.54 ,       4 ,5629-8570-1717-0052 ,party
+smart white boots            ,98.34 ,       6 ,0218-4393-7174-0782 ,party
+classy yellow flip-flops     ,92.14 ,       6 ,1584-9956-2259-8183 ,exclusive
+interesting blue jacket      ,71.66 ,       3 ,3258-2851-9385-6958 ,sleepwear
+soft white gloves            ,69.0  ,       2 ,5369-9783-9162-1144 ,sleepwear
+wooden green boots           ,29.7  ,       8 ,7966-6001-5824-7616 ,sleepwear
+fuzzy beige scarf            ,48.78 ,      15 ,9016-4680-2107-0878 ,casual
+soft orange dress            ,93.52 ,       2 ,0371-2957-5599-3796 ,swimwear
+trendy white boots           ,91.89 ,      12 ,9002-7220-7206-8387 ,exclusive
+interesting black skirt      ,55.39 ,       8 ,0504-3618-6428-3412 ,sports
+spotted yellow flip-flops    ,36.13 ,       2 ,6022-3037-1134-5692 ,swimwear
+spotted turquoise shoes      ,22.13 ,       9 ,6456-9402-8166-3242 ,party
+soft green slippers          ,28.41 ,       7 ,0180-1627-3252-5518 ,swimwear
+trendy yellow scarf          ,45.86 ,       5 ,0144-7685-9771-8293 ,swimwear
+classy turquoise shoes       ,49.26 ,       5 ,5082-6152-6061-4949 ,sports
+fuzzy brown gloves           ,20.13 ,      11 ,6796-7322-6732-6520 ,sleepwear
+trendy beige shorts          , 6.64 ,       4 ,0753-2822-3850-3881 ,sports
+fuzzy purple boots           ,22.29 ,      11 ,9359-3231-5618-3132 ,sports
+soft pink pants              ,86.19 ,       4 ,8157-3032-2609-6002 ,sleepwear
+soft orange sneakers         ,40.94 ,      13 ,9088-7454-2806-2172 ,sleepwear
+interesting black sweater    ,38.29 ,       9 ,6062-5490-9077-2791 ,party
+smart orange scarf           ,37.97 ,       7 ,7962-9385-3172-7628 ,swimwear
+colorful blue coat           , 2.42 ,      10 ,2637-8980-2246-1063 ,casual
+fancy grey underwear         ,91.71 ,      17 ,1621-3615-1992-2743 ,party
+fancy purple shirt           ,33.96 ,      20 ,0699-9058-9763-1367 ,exclusive
+interesting white dress      ,85.02 ,      11 ,0417-4510-7842-6449 ,professional
+interesting white hat        ,40.45 ,       2 ,0265-2550-4557-7231 ,casual
+spotted pink hat             ,16.37 ,       5 ,4101-3794-9019-6154 ,sports
+trendy black sweater         ,16.45 ,       8 ,2147-5002-1784-0908 ,exclusive
+fancy black slippers         , 7.15 ,       8 ,6508-9369-1281-6177 ,exclusive
+spotted red coat             ,99.95 ,      19 ,7271-5056-2284-3750 ,swimwear
+spotted blue socks           ,11.02 ,      16 ,1749-2703-8340-5804 ,exclusive
+fuzzy blue shorts            ,48.15 ,      16 ,5463-8867-4135-0640 ,professional
+colorful yellow jacket       ,11.54 ,      16 ,1885-6591-0079-1262 ,exclusive
+soft purple boots            ,50.43 ,       4 ,7349-1998-9964-5222 ,party
+soft purple pants            ,42.88 ,       3 ,5088-4262-8117-4124 ,party
+wooden turquoise pants       ,35.93 ,      13 ,7348-3386-1307-5992 ,professional
+classy red coat              ,94.45 ,       2 ,3188-9876-9718-3770 ,sports
+colorful yellow hat          ,28.19 ,      15 ,8100-4691-4501-0482 ,sleepwear
+colorful brown pants         ,29.16 ,      20 ,9914-0554-1830-1808 ,exclusive
+smart blue underwear         ,78.71 ,       2 ,4586-7948-1299-1363 ,party
+spotted purple heels         ,68.21 ,       3 ,9693-4446-2528-4991 ,exclusive
+fuzzy beige skirt            ,75.24 ,       5 ,5618-8571-3584-3362 ,professional
+smart yellow hat             ,58.55 ,       5 ,4773-2731-8348-6226 ,casual
+spotted green dress          ,16.59 ,      16 ,1748-8205-8446-4646 ,exclusive
+colorful brown shoes         ,27.91 ,       7 ,3460-9614-5946-4219 ,party
+colorful beige socks         ,30.02 ,      12 ,4656-5119-5921-0948 ,casual
+wooden purple shirt          ,93.78 ,      11 ,6698-5840-6097-8435 ,casual
+classy purple socks          ,19.96 ,      19 ,5426-2624-8600-1315 ,swimwear
+fancy brown dress            ,40.93 ,      13 ,9814-9095-9237-1819 ,sports
+smart grey boots             ,86.0  ,      10 ,9420-8512-8753-2866 ,casual
+trendy grey sweater          ,94.82 ,      15 ,7110-4387-0229-9153 ,sports
+colorful beige hat           ,63.19 ,       8 ,1590-7814-4817-3236 ,exclusive
+fuzzy turquoise flip-flops   , 6.6  ,      12 ,9373-6731-7238-3105 ,sports
+spotted turquoise scarf      ,20.55 ,      10 ,7010-8147-5323-2993 ,casual
+interesting brown socks      , 9.65 ,       2 ,2396-8693-7332-3896 ,sports
+soft turquoise coat          ,36.32 ,      19 ,3860-3202-9944-8525 ,sleepwear
+fuzzy orange sandals         ,73.12 ,       5 ,1789-7791-9665-0797 ,professional
+classy pink skirt            ,37.5  ,      19 ,6240-3183-3124-5914 ,sleepwear
+wooden blue pants            ,22.83 ,       2 ,0104-6718-8682-9953 ,sports
+spotted beige shorts         ,93.96 ,      10 ,7533-3350-5559-0935 ,casual
+fuzzy red hat                ,60.89 ,      13 ,8770-7490-9078-2751 ,swimwear
+smart pink pants             ,49.1  ,      14 ,4358-7354-0040-7015 ,party
+fuzzy red sweater            ,92.31 ,      12 ,0174-0557-6964-0270 ,swimwear
+classy green shorts          ,75.29 ,       7 ,3830-3876-9327-2149 ,party
+fancy beige sweater          ,94.46 ,      11 ,8984-4950-2978-7224 ,swimwear
+spotted brown flip-flops     ,29.03 ,       9 ,4273-3316-1452-7881 ,professional
+trendy brown sandals         ,55.74 ,       5 ,3346-7137-6668-6196 ,casual
+interesting orange hat       ,97.93 ,      11 ,6403-4795-2739-0048 ,professional
+colorful red coat            ,87.74 ,       7 ,4556-9297-0870-0051 ,sports
+spotted green sweater        ,51.45 ,      11 ,8776-4149-3544-3851 ,exclusive
+fancy brown gloves           , 7.62 ,      20 ,6387-5490-2398-4462 ,sports
+soft turquoise heels         ,36.07 ,       1 ,0001-2513-3286-5214 ,exclusive
+interesting pink hat         ,93.15 ,      18 ,7966-4314-8737-9285 ,sleepwear
+smart pink dress             ,99.12 ,       3 ,0557-3123-4189-4392 ,party
+fancy grey underwear         ,32.1  ,       3 ,5176-9754-9778-4741 ,sleepwear
+smart turquoise scarf        ,23.1  ,      20 ,5844-4437-3758-8863 ,casual
+smart black shorts           ,60.3  ,       8 ,2365-0275-2731-4207 ,sports
+smart beige gloves           , 9.24 ,       6 ,5847-3529-0837-8591 ,casual
+classy black dress           ,35.31 ,       8 ,7623-8029-7043-8450 ,sleepwear
+trendy white skirt           ,28.71 ,       6 ,8874-6025-7580-3088 ,sports
+soft brown dress             ,58.05 ,      13 ,7741-3824-6313-9231 ,sleepwear
+soft turquoise skirt         ,18.06 ,      15 ,8732-5755-7592-7359 ,sleepwear
+soft red hat                 ,55.72 ,      20 ,0121-6377-5040-7791 ,professional
+interesting red shorts       ,23.64 ,       8 ,5483-4778-8302-9186 ,exclusive
+fuzzy pink hat               , 1.86 ,      20 ,0196-2738-0277-0213 ,party
+soft white shirt             ,90.72 ,      15 ,7899-7050-0459-7135 ,sports
+interesting turquoise coat   ,15.58 ,       1 ,3956-4197-1330-4209 ,sports
+fancy white socks            , 9.6  ,      19 ,2784-1625-3076-3011 ,party
+fuzzy brown shorts           ,80.17 ,       6 ,7205-3160-7474-2823 ,casual
+trendy purple socks          ,39.78 ,      13 ,2898-9059-6918-9240 ,exclusive
+interesting green sweater    ,71.88 ,       3 ,1119-0428-9172-9596 ,sports
+classy turquoise underwear   ,66.82 ,       6 ,2196-5922-2375-7230 ,professional
+colorful brown sneakers      ,87.36 ,       9 ,6413-8939-8561-6256 ,swimwear
+fuzzy green skirt            ,32.53 ,       8 ,7746-5891-4140-1725 ,professional
+fuzzy turquoise jacket       ,36.48 ,       2 ,2052-9248-9350-5237 ,swimwear
+smart grey coat              ,75.22 ,      20 ,9723-1626-9115-2702 ,professional
+trendy turquoise pants       ,25.16 ,      20 ,0652-8752-9215-7433 ,swimwear
+wooden turquoise hat         ,18.12 ,       8 ,3183-5313-2341-9887 ,casual
+trendy turquoise sweater     ,57.67 ,      10 ,4361-6188-6220-6117 ,professional
+wooden white flip-flops      ,22.46 ,      12 ,5948-0179-2197-2588 ,party
+trendy turquoise coat        ,85.75 ,       1 ,8117-2615-8373-0004 ,sports
+trendy white shirt           ,31.27 ,      18 ,5965-4387-9325-7103 ,exclusive
+classy orange jacket         , 6.53 ,      14 ,4838-9717-7149-7965 ,casual
+soft red flip-flops          ,29.83 ,      15 ,5435-1646-3942-9400 ,party
+smart black socks            ,30.32 ,      12 ,0180-6096-8121-8255 ,exclusive
+smart red sweater            ,26.79 ,      12 ,0831-3300-9859-3818 ,party
+fuzzy blue socks             ,66.45 ,      16 ,2695-4276-4351-4315 ,swimwear
+smart beige flip-flops       ,37.85 ,       3 ,6232-2273-0544-8026 ,professional
+soft red flip-flops          ,96.04 ,       6 ,9087-6573-0489-9345 ,sports
+fuzzy beige underwear        ,69.83 ,       3 ,4413-7970-1402-1368 ,swimwear
+wooden white coat            , 3.69 ,      10 ,9211-6420-7592-9534 ,sleepwear
+trendy pink hat              ,50.22 ,      10 ,0469-3549-7178-5359 ,sports
+spotted green sandals        ,26.72 ,      12 ,0191-6593-0870-2765 ,sleepwear
+soft red pants               ,71.98 ,      17 ,7770-5120-2356-0635 ,casual
+fancy black shirt            ,31.76 ,       2 ,8353-6923-0677-9930 ,sports
+interesting grey jacket      ,65.84 ,      17 ,6286-7944-4634-4128 ,party
+trendy beige sandals         ,76.16 ,      16 ,6904-4044-3831-1979 ,sleepwear
+fancy turquoise hat          ,90.38 ,       1 ,1682-1497-4689-5011 ,sports
+interesting white heels      ,97.99 ,       9 ,8171-7733-8263-5181 ,swimwear
+smart yellow sandals         ,19.57 ,       6 ,6473-8515-6965-4742 ,sleepwear
+fancy brown boots            ,52.25 ,       2 ,3040-2189-1174-8486 ,professional
+wooden black sweater         ,27.16 ,      10 ,1831-2426-6873-6830 ,swimwear
+wooden grey flip-flops       ,21.78 ,       9 ,8349-8034-9427-3427 ,sleepwear
+colorful purple flip-flops   ,23.9  ,      14 ,1908-5254-8741-0025 ,exclusive
+spotted black shorts         ,88.93 ,       9 ,5114-0160-7457-5883 ,sleepwear
+colorful beige gloves        ,44.42 ,       5 ,7962-3142-7030-8517 ,party
+trendy green dress           ,53.57 ,      19 ,3474-6348-5480-6093 ,swimwear
+fuzzy purple underwear       ,44.82 ,      20 ,7286-1518-0931-0595 ,exclusive
+soft beige boots             ,63.68 ,       6 ,4392-9151-9772-9187 ,sleepwear
+soft purple underwear        ,67.04 ,      13 ,2963-5186-6820-6972 ,sleepwear
+smart purple skirt           ,64.52 ,       3 ,9103-4137-0744-2123 ,casual
+colorful grey socks          ,57.56 ,       3 ,3357-9784-8428-6722 ,exclusive
+interesting blue pants       ,68.09 ,      17 ,3775-3556-7606-1215 ,sleepwear
+fancy beige skirt            ,86.34 ,      12 ,5119-4771-2332-0795 ,exclusive
+trendy green gloves          ,24.52 ,      18 ,2109-7230-7785-3350 ,swimwear
+classy white shoes           ,98.57 ,       3 ,5918-1348-5436-1142 ,exclusive
+wooden blue boots            ,53.0  ,       1 ,2518-7948-1333-3210 ,professional
+classy yellow hat            ,72.24 ,      12 ,0310-3601-9185-9176 ,swimwear
+fancy yellow boots           ,28.48 ,      10 ,5990-9242-0830-1693 ,casual
+interesting orange underwear ,38.85 ,       4 ,2548-9486-7959-1344 ,professional
+trendy grey underwear        ,26.25 ,      18 ,6385-3059-2449-7448 ,professional
+classy grey shirt            ,17.1  ,       9 ,8091-5812-9779-3676 ,casual
+colorful orange scarf        ,85.01 ,      12 ,9797-9355-8292-3103 ,exclusive
+soft grey sandals            ,80.01 ,       8 ,5721-6183-0856-2039 ,party
+fuzzy black sandals          ,75.6  ,      18 ,0188-7278-9575-2820 ,exclusive
+soft pink skirt              ,85.89 ,      10 ,1589-4618-1327-1923 ,casual
+wooden black skirt           ,39.59 ,       6 ,0618-5257-3968-6861 ,sleepwear
+classy pink jacket           ,40.34 ,      12 ,0354-0887-6156-4014 ,sleepwear
+fancy orange scarf           ,46.8  ,      19 ,6054-1848-8853-3120 ,professional
+wooden green shoes           ,45.28 ,       3 ,2648-7456-6035-7759 ,exclusive
+fancy grey hat               ,64.35 ,       1 ,7339-8154-4461-9790 ,casual
+smart pink underwear         ,27.69 ,      13 ,4327-5205-4125-0183 ,exclusive
+wooden beige socks           ,79.27 ,       8 ,6121-1739-3603-8575 ,sleepwear
+fancy beige sneakers         ,63.7  ,       1 ,3505-5618-9481-4794 ,swimwear
+classy orange sweater        ,36.07 ,      14 ,7965-6717-5775-4131 ,party
+fuzzy turquoise sandals      , 2.44 ,      10 ,1051-0070-9348-0595 ,sports
+trendy grey hat              ,56.39 ,      20 ,8000-8902-9832-7361 ,swimwear
+interesting green gloves     ,10.51 ,      14 ,0191-3814-1683-5650 ,swimwear
+spotted pink dress           ,72.3  ,       3 ,9183-7233-6377-4922 ,exclusive
+colorful yellow gloves       ,68.24 ,       9 ,2750-7674-2947-6731 ,sleepwear
+spotted red sandals          , 6.64 ,       7 ,8332-7315-5902-4564 ,professional
+colorful blue sweater        ,55.99 ,      17 ,2883-8808-2030-9350 ,casual
+soft turquoise boots         , 2.33 ,      11 ,7459-8390-0431-9051 ,casual
+soft black shirt             ,92.0  ,      14 ,7314-6136-6891-5846 ,casual
+trendy green scarf           , 5.84 ,       9 ,5335-3999-1732-5310 ,professional
+colorful white flip-flops    ,71.67 ,      15 ,8123-7174-0956-7671 ,casual
+classy black coat            , 3.17 ,       5 ,5315-2117-4769-1986 ,casual
+trendy green scarf           ,46.63 ,      16 ,6448-5240-8903-5043 ,professional
+smart blue hat               ,82.09 ,      19 ,0472-4510-3411-6383 ,swimwear
+colorful brown socks         ,59.13 ,       7 ,4590-3580-2206-7531 ,casual
+fancy turquoise shirt        ,59.58 ,      16 ,2339-8098-3059-3519 ,sleepwear
+fuzzy orange gloves          ,26.76 ,       9 ,0179-4839-2579-3641 ,casual
+spotted black skirt          ,18.7  ,       6 ,7440-4226-5378-8687 ,professional
+fuzzy blue pants             ,25.42 ,       8 ,7307-2663-9814-3338 ,sleepwear
+wooden grey slippers         , 3.62 ,      10 ,2817-9823-6320-1677 ,swimwear
+spotted grey shoes           ,54.13 ,       4 ,6211-0798-8218-3919 ,exclusive
+fuzzy beige gloves           ,58.64 ,      12 ,9485-6387-8312-0930 ,swimwear
+smart blue sneakers          ,84.29 ,      19 ,8337-3375-6570-8162 ,sleepwear
+classy beige heels           ,99.76 ,      12 ,6776-6363-8362-0658 ,exclusive
+interesting turquoise gloves ,31.55 ,      10 ,5671-1388-7050-1718 ,swimwear
+colorful orange jacket       ,31.94 ,       9 ,5295-3691-5655-6268 ,exclusive
+classy purple underwear      ,49.48 ,       7 ,5062-8453-0483-1372 ,professional
+fancy white scarf            ,85.85 ,       5 ,1405-0945-4970-2383 ,sleepwear
+fancy red shirt              ,12.7  ,      15 ,0910-7096-9823-1847 ,swimwear
+spotted black sandals        ,45.51 ,       5 ,9114-1473-1526-9357 ,professional
+trendy grey slippers         , 3.51 ,      16 ,9904-8954-8482-9716 ,professional
+trendy beige shoes           ,75.72 ,      14 ,7288-5859-5662-1850 ,party
+interesting grey gloves      ,94.82 ,       8 ,6138-7898-6744-9362 ,sleepwear
+classy blue underwear        ,64.35 ,      12 ,6328-5972-4398-0132 ,sleepwear
+interesting beige heels      ,38.85 ,      16 ,7928-7219-4253-7795 ,swimwear
+interesting black dress      ,61.67 ,      13 ,7755-5006-7766-4522 ,party
+soft brown sneakers          , 5.34 ,       6 ,3927-2857-9258-5223 ,casual
+wooden green slippers        , 2.94 ,       5 ,0712-7076-4553-6564 ,party
+wooden purple sweater        ,42.61 ,      15 ,3434-2635-8770-5587 ,swimwear
+classy grey sweater          ,78.36 ,       3 ,0273-5655-1899-0992 ,sleepwear
+wooden beige underwear       ,51.4  ,       3 ,0582-8499-7786-4751 ,sports
+colorful grey shorts         ,70.12 ,      17 ,2355-2824-2859-3913 ,sports
+spotted grey scarf           ,73.73 ,       1 ,6952-8229-8461-4394 ,swimwear
+interesting purple sweater   ,34.11 ,      12 ,2999-7544-2531-4577 ,party
+colorful blue shoes          ,39.99 ,      16 ,6022-3507-4280-3867 ,exclusive
+classy red skirt             , 4.61 ,      12 ,8196-2818-6049-7726 ,professional
+colorful blue underwear      ,72.39 ,       9 ,4554-3520-4981-4398 ,party
+trendy orange hat            ,38.81 ,       2 ,3322-4860-3025-1803 ,sleepwear
+trendy white sandals         ,29.91 ,       8 ,1410-3126-4955-3640 ,exclusive
+colorful beige sweater       ,70.63 ,      17 ,2856-4156-0067-2185 ,swimwear
+spotted white shoes          ,31.39 ,       2 ,1891-7130-3882-3134 ,party
+fuzzy black sneakers         ,14.37 ,      19 ,0324-2257-6413-2913 ,exclusive
+fuzzy black coat             ,95.02 ,      19 ,6003-7205-2876-7894 ,party
+colorful blue sweater        ,47.96 ,       1 ,2884-6828-3518-0222 ,professional
+soft brown hat               ,40.53 ,       2 ,9687-2963-2716-1343 ,exclusive
+fuzzy green gloves           ,94.98 ,      12 ,1996-2962-9888-9922 ,casual
+fancy black socks            ,49.17 ,      10 ,6624-4361-1284-1740 ,exclusive
+smart grey heels             ,13.62 ,      16 ,3611-7687-3485-1057 ,casual
+wooden orange skirt          ,99.57 ,      16 ,6564-5732-0050-1872 ,swimwear
+fuzzy grey heels             ,58.21 ,       7 ,0022-6629-7230-9498 ,professional
+trendy green shoes           ,87.62 ,      12 ,2434-4920-0235-5637 ,sleepwear
+colorful green hat           ,91.29 ,      10 ,6786-1181-7929-0635 ,sports
+fuzzy red socks              ,58.35 ,      15 ,7915-7650-0664-4929 ,party
+interesting white coat       , 3.38 ,      16 ,0043-8453-2618-7283 ,professional
+smart red shoes              ,55.32 ,      13 ,5683-8714-2719-8335 ,sleepwear
+fancy black shoes            ,27.72 ,       3 ,6835-6750-2769-3183 ,casual
+colorful beige flip-flops    ,71.44 ,      18 ,1162-2816-5229-5253 ,casual
+smart orange pants           ,28.29 ,       1 ,4059-7713-9773-6490 ,sports
+fuzzy grey boots             ,95.76 ,      15 ,3485-9232-9239-8320 ,party
+classy turquoise shirt       ,76.99 ,      11 ,7958-9320-4003-9216 ,sports
+colorful orange sweater      ,95.81 ,       3 ,9974-7210-8186-6518 ,sleepwear
+smart purple sneakers        ,84.53 ,       1 ,6766-1541-2037-8311 ,sports
+spotted orange flip-flops    ,36.99 ,      20 ,0708-1660-7863-7030 ,sleepwear
+fuzzy white shirt            ,99.38 ,      13 ,0403-3508-2130-2444 ,exclusive
+classy brown scarf           ,76.21 ,       5 ,8196-8660-3868-2349 ,sleepwear
+spotted blue flip-flops      ,87.86 ,       7 ,8528-3909-3411-1309 ,casual
+wooden black underwear       ,51.29 ,       6 ,4709-5063-3843-0987 ,exclusive
+trendy black scarf           ,77.95 ,       7 ,8498-5837-1250-8646 ,sports
+fancy beige shirt            ,74.2  ,      11 ,0938-7186-9030-6303 ,casual
+soft green scarf             ,46.36 ,      17 ,2015-8088-7136-4834 ,casual
+trendy grey pants            ,40.01 ,       9 ,7537-2128-8153-2318 ,sports
+wooden pink heels            ,51.49 ,      17 ,8223-3063-1171-8307 ,casual
