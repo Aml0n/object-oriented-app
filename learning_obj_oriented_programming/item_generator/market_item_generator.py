@@ -35,12 +35,12 @@ def category_generator():
 
 new_lines = 0 # starts counting upward for every new line created
 try: # check if the file actually exists
-    with open(os.path.join('item_generator', 'output.csv'), 'a', newline='') as csvfile:
+    with open(os.path.join('item_generator', '.ignore', 'output.csv'), 'a', newline='') as csvfile:
         writer = csv.writer(csvfile, delimiter=',', quotechar='|', quoting=csv.QUOTE_MINIMAL)
         if csvfile.tell() == 0:
             writer.writerow(['name', 'price', 'quantity', 'id', 'category'])  # Add header row before writing data rows
         while new_lines < 300: # keep writing new rows until x new lines have been written
-            writer.writerow([f"{name_generator()}", f"{price_generator()}", f"{quantity_generator()}", f"{id_generator()}", f"{category_generator()}"])
+            writer.writerow([f"{name_generator()}", f"{price_generator()}", quantity_generator(), new_lines, f"{category_generator()}"])
             new_lines += 1
 except IOError as e:
     print(f"An error occurred while writing to the file: {e}")

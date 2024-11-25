@@ -1,7 +1,6 @@
 # applying_oop
 # learned from Corey Schafer's video
 import time as tm
-import pygame as game
 
 class Player:
     def __init__(self, username, team, role):
